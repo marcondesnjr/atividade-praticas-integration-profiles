@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <Endereco id="1" rua="rua" bairro="bairro"/>
+    <Endereco id="2" rua="rua2" bairro="bairro2"/>
+    <Endereco id="3" rua="rua3" bairro="bairro3"/>
+    <Endereco id="4" rua="rua4" bairro="bairro4"/>
+</dataset>

@@ -1,0 +1,15 @@
+ifpb\pp\Validador.class
+ifpb\pp\impl\ValidaCPF.class
+ifpb\pp\pessoa\CPF.class
+ifpb\pp\ServiceException.class
+ifpb\pp\impl\ValidaPessoa.class
+pp\dbunitconf\DBUnitHelper.class
+ifpb\pp\pessoa\Endereco.class
+pp\dbunitconf\ConnectionHelper.class
+ifpb\pp\impl\RepositorioPessoa.class
+ifpb\pp\ValidadorException.class
+ifpb\pp\impl\ServicePessoa.class
+ifpb\pp\pessoa\Pessoa.class
+ifpb\pp\Repositorio.class
+ifpb\pp\Service.class
+pp\dbunitconf\InfrastructureException.class
