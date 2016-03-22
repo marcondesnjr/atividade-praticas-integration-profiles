@@ -5,10 +5,10 @@
     <class>ifpb.pp.pessoa.Pessoa</class>
     <class>ifpb.pp.pessoa.Endereco</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/Atividade-Teste"/>
-      <property name="javax.persistence.jdbc.user" value="postgres"/>
-      <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="123"/>
+      <property name="javax.persistence.jdbc.url" value="${DBUrl}"/>
+      <property name="javax.persistence.jdbc.user" value="${DBUser}"/>
+      <property name="javax.persistence.jdbc.driver" value="${DBDriver}"/>
+      <property name="javax.persistence.jdbc.password" value="${DBPass}"/>
       <property name="javax.persistence.schema-generation.database.action" value="create"/>
     </properties>
   </persistence-unit>

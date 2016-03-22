@@ -26,7 +26,6 @@ public class ValidaCPF implements Validador<CPF>{
                 validator.assertValid(cpf.valor());
                 return true;
             } catch (InvalidStateException e) {
-                System.err.println(e.getInvalidMessages());
             }
             
             }

@@ -66,7 +66,6 @@ public class ValidaCPFTest {
     @Test
     public void testValidarValido() {
         ValidaCPF instance = new ValidaCPF();
-        System.out.println(cpf.valor() + result);
         assertEquals(result, instance.validar(cpf));
     }
 
